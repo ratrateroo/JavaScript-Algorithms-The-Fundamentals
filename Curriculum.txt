@@ -1,0 +1,119 @@
+Course Curriculum
+
+Getting •ed
+ *Welcome to the Course! (0:58)
+ *What & Why (6:42)
+ •Join the Learning Community
+ *Measuring Algorithm Performance & Time Complexity (9:31)
+ *Big O Notation (6:57)
+ *Deriving the Time Complexity / Big O of an Algorithm (11:27)
+ *Constant Time (4:50)
+ *Using Big O For Algorithm Comparison (3:42)
+ *A First Task! (2:13)
+ *Solution & A Gotcha (10:01)
+ *About this Course & Outline (5:30)
+ *Module Resources
+
+Math Algorithms & Practicing The Basics
+ •Module Introduction (1:38)
+ •The Fibonacci Problem (3:30)
+ •The Fibonacci Solution (5:42)
+ •Fibonacci Big O (Time Complexity) (4:17)
+ •The "Is Prime" Problem (2:33)
+ •The "Is Prime" Solution (3:56)
+ •"Is Prime", Big O & Multiple Cases (12:48)
+ •"Is Prime" - Improved Version (6:44)
+ •Time to Practice (Problem) (1:27)
+ •Time to Practice (Solution) (12:50)
+ •Identifying Big O Quickly (5:53)
+ •Is Power Of Two Algorithm (8:06)
+ •Logarithmic Time Complexity (7:29)
+ •Bitwise Operators & Power Of Two (8:19)
+ •Again: Identifying Big O Quickly (2:50)
+ •The Factorial Algorithm (5:12)
+ •Module Resources
+
+Recursion & Dynamic Programming
+ •Module Introduction (1:06)
+ •Recursion in Algorithms (8:30)
+ •Exponential Time Complexity (11:30)
+ •Quadratic Time Complexity vs Exponential Time Complexity (5:08)
+ •What is "Dynamic Programming"? (3:25)
+ •"Dynamic Programming" in Action (9:22)
+ •The "Bottom Up" Approach (4:37)
+ •Module Resources
+
+Search Algorithms
+ •Module Introduction (2:04)
+ •What Search Algorithms Are About (1:19)
+ •Introducing Linear Search (1:41)
+ •Linear Search in Action (10:39)
+ •Linear Search Time Complexity (4:21)
+ •Binary Search in Theory (2:50)
+ •Binary Search in Action (11:46)
+ •Binary Search Time Complexity (3:20)
+ •Recursive Binary Search (13:05)
+ •The Master Theorem (10:39)
+ •Module Resources
+
+Sorting Algorithms
+ •Module Introduction (0:52)
+ •What are Sorting Algorithms About? (1:11)
+ •Bubble Sort - Theory (5:07)
+ •Bubble Sort in Action (17:31)
+ •Bubble Sort Time Complexity (3:41)
+ •Quicksort - Theory (2:55)
+ •Quicksort in Action (13:14)
+ •Quicksort Time Complexity (8:04)
+ •Merge Sort - Theory (4:09)
+ •Merge Sort in Action (16:38)
+ •Merge Sort Time Complexity (4:01)
+ •Summary (2:04)
+ •Module Resources
+
+Space Complexity
+ •Module Introduction (1:13)
+ •Introducing Space Complexity (3:02)
+ •Deriving Space Complexity (2:39)
+ •Factorial Algorithm (Loop) - Space Complexity (5:06)
+ •Factorial Algorithm (Recursive) - Space Complexity (3:58)
+ •Linear Search - Space Complexity (3:23)
+ •Binary Search - Space Complexity (2:24)
+ •Bubble Sort - Space Complexity (2:04)
+ •Quicksort - Space Complexity (6:00)
+ •Merge Sort - Space Complexity (2:13)
+ •Module Resources
+
+Sets (Array) Algorithms
+ •Module Introduction (1:50)
+ •An Introduction to Sets (3:17)
+ •The Cartesian Product Algorithm (5:11)
+ •Cartesian Product - Time Complexity (5:10)
+ •The Cartesian Product Algorithm - Without Limits (16:37)
+ •The Permutations Algorithms (3:27)
+ •Permutations without Repetitions (19:00)
+ •Understanding Permutations (4:44)
+ •Permutations without Repetitions - Big O (3:53)
+ •Permutations WITH Repetitions (15:15)
+ •Module Resources
+
+More Complex Algorithms & How To Solve Code Problems
+ •Module Introduction (1:07)
+ •Solving Problems In A Structured Way (7:06)
+ •Simplifying Problems (4:00)
+ •Practice Makes Perfect! (1:35)
+ •The Knapsack Problem (0/1) (1:47)
+ •A Wrong Approach (5:21)
+ •Approaching the Problem Differently (5:26)
+ •A Working Knapsack Solution (18:21)
+ •An Improved Knapsack Algorithm (14:47)
+ •Greedy vs Dynamic Algorithms (3:48)
+ •A Greedy Knapsack Algorithm (9:46)
+ •A New Problem Solving Plan (2:50)
+ •The Change Making Problem (3:31)
+ •A Greedy Change Making Algorithm (12:40)
+ •A Variation to the Change Making Problem (13:17)
+ •Module Resources
+ 
+Roundup & Next Steps
+ •Course Roundup (6:23)
