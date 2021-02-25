@@ -1,6 +1,5 @@
 function findElement(sortedArr, element, offset) {
-	console.log(sortedArr, element);
-
+	// O(1)
 	let startIndex = 0;
 	let endIndex = sortedArr.length - 1;
 
@@ -16,6 +15,7 @@ function findElement(sortedArr, element, offset) {
 	} else {
 		endIndex = middleIndex;
 	}
+	// O(1)
 	return findElement(
 		sortedArr.slice(startIndex, endIndex + 1),
 		element,
@@ -23,6 +23,12 @@ function findElement(sortedArr, element, offset) {
 	);
 }
 
+// a = 1
+// b = 2
+// O(n^logb a) => O(n^log2 1) => O(n^0) => O(1)
+// Overall algorithm time complexity:
+// O(n^logb a * log n) => O(1 * log n) => O(log n)
+
 const arr = [1, 5, 9, 13, 99, 100];
 
-console.log(findElement(arr, 99, 0));
+console.log(findElement(arr, 100, 0));
