@@ -1,3 +1,10 @@
+//The Knapsack Problem
+
+//You got a list of items, where every item has a value and a weight.
+//You got a bag that holds a maximum weight of X.
+
+//Write a program that maximizes the value of the items you put into the bag whilst ensuring that you don't exceed the maximum weight.
+
 function knapsack(items, cap, itemIndex) {
 	if (cap === 0 || itemIndex < 0) {
 		return { items: [], value: 0, weight: 0 };
